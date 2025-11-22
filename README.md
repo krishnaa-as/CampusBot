@@ -28,6 +28,7 @@ A Streamlit-based chatbot that can answer questions from a PDF document using Ll
     pip install -r requirements.txt
 
 3.Install Ollama
+
 4.Pull the Llama model 
         ollama pull llama3.2:1b
     Make sure Ollama is running locally for the chatbot to work.
@@ -35,6 +36,7 @@ A Streamlit-based chatbot that can answer questions from a PDF document using Ll
 5.Run the App
     Start the Streamlit app with:
        streamlit run chatbot.py
+       
     Streamlit will launch a local web interface.
     Open the URL displayed in the terminal (usually http://localhost:8501) to start chatting. 
 
