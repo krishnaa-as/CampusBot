@@ -1,0 +1,4 @@
+streamlit==1.30.0
+pymupdf==1.23.1        # for reading PDFs
+llama-index==0.7.45    # LlamaIndex
+ollama==0.2.10         # Ollama API
