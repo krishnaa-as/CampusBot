@@ -30,6 +30,7 @@ A Streamlit-based chatbot that can answer questions from a PDF document using Ll
 3.Install Ollama
 
 4.Pull the Llama model 
+
         ollama pull llama3.2:1b
         
    - Make sure Ollama is running locally for the chatbot to work.
